@@ -19,7 +19,7 @@ When brought back online:
 
 Offline entries should be added to tracker.
 
-# Resources
+## Resources
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 - https://developer.mozilla.org/en-US/docs/Web/Manifest
