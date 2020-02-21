@@ -1,5 +1,5 @@
 {
-  "name": "budget-tracker",
+  "name": "budget-app",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/serinat/Budget-Tracker"
+    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/serinat/Budget-Tracker/issues"
+    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
   },
-  "homepage": "https://github.com/serinat/Budget-Tracker#readme",
+  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
