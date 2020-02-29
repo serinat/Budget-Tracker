@@ -24,6 +24,6 @@ Offline entries should be added to tracker.
 - https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 - https://developer.mozilla.org/en-US/docs/Web/Manifest
 
-## Deployed App:
+## Deployed App
 
 - https://serene-bastion-86706.herokuapp.com/
